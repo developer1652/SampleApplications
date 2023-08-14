@@ -7,7 +7,7 @@ public class Calender {
 		int n = sc.nextInt();
 		switch(n) {
 		case 1 :
-			System.out.println("january");
+			System.out.println("jjhsfbsfbmfbkjry");
 			break;
 		case 2 :
 			System.out.println("February");
